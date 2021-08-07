@@ -3,14 +3,14 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=emreerken12i&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreerken12i&layout=compact&theme=dark&show_icons=tru" />
+   <img src="https://github-readme-stats.vercel.app/api?username=emreerken12&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreerken12&layout=compact&theme=dark&show_icons=tru" />
 
 ### Ben Yazılımcı Emre Discord botları ve pyhton ile bir şeyler yapmaktayım botlarınızda hata alırsanız discord sunucuma gelerek yardım alabilirsiniz
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=emreerken12i" alt="emreerken12i" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emreerken12" alt="emreerken12" /> </p>
 <br />
 <p align="center">
 <h3>My Personal accounts:</h3>
